@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LandScape",
+    "slug": "LandScape",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LandScape"
+}
